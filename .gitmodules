@@ -1,0 +1,3 @@
+[submodule "YourPC-frontend"]
+	path = YourPC-frontend
+	url = https://github.com/xtansy/YourPC-frontend.git
