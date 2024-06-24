@@ -1,4 +1,15 @@
-# :desktop_computer: YourPC
+# :desktop_computer: Приложение YourPC
+
+## ТП-2-1
+
+## Описание проекта
+
+Интернет-магазин комплектующих для ПК.
+
+## Выполнили студенты
+
+-   **[Костромин Андрей Николаевич](https://github.com/xtansy)** - Fullstack-разработчик, дизайнер.
+-   **[Железной Владимир Сергеевич](https://github.com/Beemov)** - Бизнес-аналитик, технический писатель.
 
 ### :globe_with_meridians: **[Ссылка на развернутый проект](https://your-pc-frontend.vercel.app/)**
 
