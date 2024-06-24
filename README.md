@@ -8,7 +8,7 @@
 -   **[Демонстрация основных сценариев](https://www.youtube.com/watch?v=8ekoCDCv5ss)**
 -   **[Демонстрация frontend части приложения](https://www.youtube.com/watch?v=1fHUwoiNq_w)**
 
-### Локальный запуск Frontend части
+### :clipboard: Локальный запуск Frontend части
 
 1. Установка зависимостей
 
@@ -22,7 +22,7 @@ npm install
 npm start
 ```
 
-### Локальный запуск Backend части
+### :clipboard: Локальный запуск Backend части
 
 1. Установка зависимостей
 
