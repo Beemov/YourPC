@@ -1,5 +1,9 @@
 # YourPC
 
+### Ссылки
+
+-   **[Развернутый проект](https://your-pc-frontend.vercel.app/)**
+
 ### :globe_with_meridians: Видео
 
 -   **[Старая презентация проекта](https://youtu.be/eWDPMyQnGsk)**
