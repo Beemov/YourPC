@@ -1,6 +1,6 @@
 # YourPC
 
-### **[Развернутый проект](https://your-pc-frontend.vercel.app/)**
+### **[Ссылка на развернутый проект](https://your-pc-frontend.vercel.app/)**
 
 ### :globe_with_meridians: Видео
 
