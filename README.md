@@ -1,5 +1,6 @@
 # YourPC
 
-# :globe_with_meridians:**[Ссылка на видео](https://youtu.be/eWDPMyQnGsk)**
+### :globe_with_meridians: Видео
 
-
+-   **[Старая презентация проекта](https://youtu.be/eWDPMyQnGsk)**
+-   **[Видеопрезентация проекта](https://www.youtube.com/watch?v=8ekoCDCv5ss)**
