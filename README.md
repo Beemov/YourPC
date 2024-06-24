@@ -1,8 +1,8 @@
-# YourPC
+# :desktop_computer: YourPC
 
-### **[Ссылка на развернутый проект](https://your-pc-frontend.vercel.app/)**
+### :globe_with_meridians: **[Ссылка на развернутый проект](https://your-pc-frontend.vercel.app/)**
 
-### :globe_with_meridians: Видео
+### :video_camera: Видео
 
 -   **[Старая видеопрезентация проекта](https://youtu.be/eWDPMyQnGsk)**
 -   **[Демонстрация основных сценариев](https://www.youtube.com/watch?v=8ekoCDCv5ss)**
