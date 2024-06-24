@@ -16,6 +16,7 @@
 ### :video_camera: Видео
 
 -   **[Старая видеопрезентация проекта](https://youtu.be/eWDPMyQnGsk)**
+-   **[Новая видеопрезентация проекта](https://drive.google.com/uc?id=1N1WJMiXRLsRePiOTtk5ZmIqAz0sOex9k&export=download)**
 -   **[Демонстрация основных сценариев](https://www.youtube.com/watch?v=8ekoCDCv5ss)**
 -   **[Демонстрация frontend части приложения](https://www.youtube.com/watch?v=1fHUwoiNq_w)**
 
