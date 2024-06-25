@@ -1,26 +1,55 @@
-# :desktop_computer: Приложение YourPC
-
-## ТП-2-1
-
-## Описание проекта
+# Веб-приложение «YourPC»
 
 Интернет-магазин комплектующих для ПК.
 
-## Выполнили студенты
+## Команда ТП №1:
 
 -   **[Костромин Андрей Николаевич](https://github.com/xtansy)** - Fullstack-разработчик, дизайнер.
 -   **[Железной Владимир Сергеевич](https://github.com/Beemov)** - Бизнес-аналитик, технический писатель.
 
-### :globe_with_meridians: **[Ссылка на развернутый проект](https://your-pc-frontend.vercel.app/)**
+## Репозитории
 
-### :video_camera: Видео
+-   [Frontend](https://github.com/xtansy/YourPC-frontend)
+-   [Backend](https://github.com/xtansy/YourPC-backend)
 
--   **[Старая видеопрезентация проекта](https://youtu.be/eWDPMyQnGsk)**
--   **[Новая видеопрезентация проекта](https://drive.google.com/uc?id=1N1WJMiXRLsRePiOTtk5ZmIqAz0sOex9k&export=download)**
--   **[Демонстрация основных сценариев](https://www.youtube.com/watch?v=8ekoCDCv5ss)**
--   **[Демонстрация frontend части приложения](https://www.youtube.com/watch?v=1fHUwoiNq_w)**
+## Сервисы
 
-### :clipboard: Локальный запуск Frontend части
+-   [Figma](https://www.figma.com/design/2ujUJUBnBNfWtkWq6ZwicN/Your-PC?node-id=0-1) - Прототип дизайна
+
+## Документация
+
+-   Техническое задание
+    [[docx]](Документация/Техническое*задание/Техническое*задание.docx)
+    [[pdf]](Документация/Техническое*задание/Техническое*задание.pdf)
+-   Курсовая работа
+    [[docx]](Документация/Курсовая/Курсовая*работа.docx)
+    [[pdf]](Документация/Курсовая/Курсовая*работа.pdf)
+-   Оформительские задачи [[pdf]](Документация/Техническое*задание/Оформительские*задачи.pdf)
+
+## Обзоры
+
+-   **[Обзор основных сценариев](https://www.youtube.com/watch?v=8ekoCDCv5ss)**
+-   **[Обзор frontend части приложения](https://www.youtube.com/watch?v=1fHUwoiNq_w)**
+
+## Презентации
+
+-   Презентация технического задания
+    [[pptx]](Документация/Презентация*на*начальном*этапе/Презентация_ТП.pptx)
+    [[pdf]](Документация/Презентация*на*начальном*этапе/Презентация_ТП.pdf)
+    [[video]](https://youtu.be/eWDPMyQnGsk)
+
+-   Презентация проекта
+    [[pdf]](Документация/Презентация\*проекта/Презентация_проекта.pdf)
+    [[video]](https://drive.google.com/uc?id=1N1WJMiXRLsRePiOTtk5ZmIqAz0sOex9k&export=download)
+
+## Сопроводительное письмо
+
+-   Сопроводительное письмо
+    [[pdf]](Документация/Сопроводительное\*письмо/Сопроводительное_письмо.pdf)
+
+## Использование
+
+### Локальный запуск Frontend части
 
 1. Установка зависимостей
 
@@ -34,7 +63,7 @@ npm install
 npm start
 ```
 
-### :clipboard: Локальный запуск Backend части
+### Локальный запуск Backend части
 
 1. Установка зависимостей
 
@@ -47,3 +76,13 @@ npm install
 ```bash
 npm run dev
 ```
+
+<small>
+*   -   Данные пользователей для проверки:
+
+| Аккаунт | Логин | Пароль |
+| ------- | ----- | ------ |
+
+| Пользователь | _userTest_ | pass123 |
+
+</small>
