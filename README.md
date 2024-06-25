@@ -20,6 +20,10 @@
 -   **[Демонстрация основных сценариев](https://www.youtube.com/watch?v=8ekoCDCv5ss)**
 -   **[Демонстрация frontend части приложения](https://www.youtube.com/watch?v=1fHUwoiNq_w)**
 
+## Защита
+
+-   **[Презентация для защиты](https://www.canva.com/design/DAGGoz77NrU/FT25ZQ-jlgXisbIWaEj9EQ/edit?utm_content=DAGGoz77NrU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
+
 ### :clipboard: Локальный запуск Frontend части
 
 1. Установка зависимостей
